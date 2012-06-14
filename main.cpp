@@ -1,4 +1,4 @@
-#include <QCoreApplication>
+﻿#include <QCoreApplication>
 #include <QtGlobal>
 #include <iostream>
 #include <QString>
